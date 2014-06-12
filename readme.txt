@@ -22,6 +22,8 @@ The default short code is : <code>[featured_products per_page="12" columns="4"] 
 
 And change in this shortcode with the help of Featured product by categor plugin is : <code>[featured_product_categories cats="CATEGORY_ID" per_cat="6" columns="3"] </code>
 
+View [DEMO](http://wordpressplugins.sptechnolab.com/sp-woocommerce-featured-product-by-category/) for additional information.
+
 With this plugin you can now display woocommerce best selling products by category.
 
 = Features include: =
