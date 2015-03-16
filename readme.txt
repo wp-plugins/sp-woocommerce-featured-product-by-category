@@ -14,6 +14,10 @@ A quick, easy way to add an Featured product by category to woocommerce.
 
 This is very simple plugin to display woocommerce Featured product by category
 
+= Installation help and support =
+* Please check [installation help](http://wponlinesupport.com/plugin-installation-support/)  on our website. View [Installation help and support](http://wponlinesupport.com/plugin-installation-support/) 
+* Get [Free installation and setup](http://wponlinesupport.com/plugin-installation-support/)  on your website.
+
 View [Shortcodes included with WooCommerce](http://docs.woothemes.com/document/woocommerce-shortcodes/) for additional information.
 
 In this plugin we have just changes the Featured product  shortcode.
@@ -21,10 +25,6 @@ In this plugin we have just changes the Featured product  shortcode.
 The default short code is : <code>[featured_products per_page="12" columns="4"] </code>
 
 And change in this shortcode with the help of Featured product by categor plugin is : <code>[featured_product_categories cats="CATEGORY_ID" per_cat="6" columns="3"] </code>
-
-= Installation help and support =
-* Please check installation help on our website. View [Installation help and support](http://wponlinesupport.com/plugin-installation-support/) 
-* Get Free installation and setup on your website.
 
 With this plugin you can now display woocommerce best selling products by category.
 
