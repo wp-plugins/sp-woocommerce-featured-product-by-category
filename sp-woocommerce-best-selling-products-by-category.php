@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: sp woocommerce featured product by category
-Plugin URL: http://sptechnolab.com
+Plugin Name: WP woocommerce featured product by category
+Plugin URL: http://wponlinesupport.com
 Description: Display woocommerce featured product by category
 Version: 1.0
-Author: SP Technolab
-Author URI: http://www.sptechnolab.com
-Contributors: SP Technolab
+Author: WP Online Support
+Author URI: http://wponlinesupport.com
+Contributors: WP Online Support
 */
 // get featured_product_categories
 
