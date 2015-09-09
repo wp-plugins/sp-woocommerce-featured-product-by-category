@@ -1,4 +1,4 @@
-=== sp woocommerce featured product by category  ===
+=== WP woocommerce featured product by category  ===
 Contributors: wponlinesupport, anoopranawat 
 Tags: woocommerce, Featured product , Featured product by category, shortcode , template code
 Requires at least: 3.1
